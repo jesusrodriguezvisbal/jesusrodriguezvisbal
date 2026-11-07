@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jesus! 👋
 
-<!--
-**jesusrodriguezvisbal/jesusrodriguezvisbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electrical Engineering @ McGill University**
 
-Here are some ideas to get you started:
+Interested in **semiconductors, IC design, FPGA, and embedded systems**, with a passion for bridging hardware and software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Hardware:** VHDL, FPGA, Digital Logic, Computer Architecture
+- **Programming:** Python, MATLAB, Java, ARM Assembly
+- **Tools:** Quartus, ModelSim, OpenROAD, LTspice, Simulink
+- **Embedded:** Arduino, Teensy, Raspberry Pi
+
+### 🚀 Currently Working On
+- **Vibration Processing ASIC** — RTL design, functional verification, and physical implementation using OpenROAD.
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/jesus-rodriguez-visbal-9720431b5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bz5EgYjcuQ4OfBKGTsfo7pw%3D%3D) · [GitHub](https://github.com/jesusrodriguezvisbal)
