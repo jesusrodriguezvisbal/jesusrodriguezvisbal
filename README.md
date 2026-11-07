@@ -5,10 +5,14 @@
 Interested in **semiconductors, IC design, FPGA, and embedded systems**, with a passion for bridging hardware and software.
 
 ### 🛠️ Technical Skills
-- **Hardware:** Verilog, VHDL, FPGA, Digital Logic, Computer Architecture
+- **Hardware:** VHDL, FPGA, Digital Logic, Computer Architecture
 - **Programming:** Python, MATLAB, Java, ARM Assembly
 - **Tools:** Quartus, ModelSim, OpenROAD, LTspice, Simulink
 - **Embedded:** Arduino, Teensy, Raspberry Pi
+
+### 💼 Experience
+- **Teledyne MEMS** — Incoming Industrialization & Statistical Analysis Intern (2027)
+- **Grifols** — Validation Intern
 
 ### 🚀 Currently Working On
 - **Vibration Processing ASIC** — RTL design, functional verification, and physical implementation using OpenROAD.
