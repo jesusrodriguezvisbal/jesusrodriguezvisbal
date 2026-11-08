@@ -6,7 +6,7 @@ Interested in **semiconductors, IC design, FPGA, and embedded systems**, with a 
 
 ### 🛠️ Technical Skills
 - **Hardware:** VHDL, FPGA, Digital Logic, Computer Architecture
-- **Programming:** Python, MATLAB, Java, ARM Assembly
+- **Programming:** Python, MATLAB, Java, C/C++, ARM Assembly
 - **Tools:** Quartus, ModelSim, OpenROAD, LTspice, Simulink
 - **Embedded:** Arduino, Teensy, Raspberry Pi
 
